@@ -1,0 +1,4 @@
+Para escolher o método de resolução a ser usado,  use -c (na linha de comando) e digite:
+"1" - Para usar o força bruta
+"2" - Para usar o método guloso
+"3" - Para usar a programação dinâmica.
